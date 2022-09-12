@@ -9,14 +9,6 @@ I'm a 24 years old Machine Learning practitioner based in Padua. I'm pursuing my
 <a href="https://medium.com/@Berkersenol13" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/berker-%C5%9Fenol-1b6b68213/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## 🔨 Stack 
 
-🐍 Python Stack
-- Machine Learning: TensorFlow, Scikit-learn
-- Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn
-
-Development
-- Flask
 <!--
 **berkersenol/berkersenol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
