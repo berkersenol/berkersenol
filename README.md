@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berker</h1>
-
-
-I'm a 24 years old Machine Learning practitioner based in Padua. I'm pursuing my master's in Information and Communications Technology. Check out my blog [here](https://medium.com/@Berkersenol13). I post computer science and machine learning tutorials occasionally to my Medium Blog and soon in my twitch channel.
+I'm a 26 years old Machine Learning practitioner based in Padua. I'm pursuing my master's in Information and Communications Technology. Check out my blog [here](https://medium.com/@Berkersenol13). I post computer science and machine learning tutorials occasionally to my Medium Blog and soon in my twitch channel.
 
 
 ## 🔗 Let's Connect!
