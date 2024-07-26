@@ -1,7 +1,7 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
 <h1 align="center">Hi 👋, I'm Berker</h1>
 
-I am doing my masters degree in University of Padua for Information Technologies specialized on Artifical Intelligence. Mostly, i build and write deep neural network models based on Tensorflow and Pytorch for Computer Vision and Natural Language Processing areas.  
+I am doing my masters degree in University of Padua for Information Technologies specializing on Artifical Intelligence. Mostly, i build and write deep neural network models based on Tensorflow and Pytorch for Computer Vision and Natural Language Processing areas.  
 
 - Scraping and Analysing the Online discussion about Barbie Dataset on Twitter and X [The-Affect-of-Barbie-the-Movie-on-the-online-discussion-about-feminism](https://github.com/berkersenol/The-Affect-of-Barbie-the-Movie-on-the-online-discussion-about-feminism)
 
