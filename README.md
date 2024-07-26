@@ -1,5 +1,6 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
-![Example GIF](https://imgur.com/a/ZfdUTbF)
+<img src="https://imgur.com/a/ZfdUTbF" alt="Alt Text" width="300" height="200" />
+
 
 
 <h1 align="center">Hi 👋, I'm Berker</h1>
