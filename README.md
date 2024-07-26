@@ -1,4 +1,5 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
+![Example GIF](https://imgur.com/a/ZfdUTbF)
 
 
 <h1 align="center">Hi 👋, I'm Berker</h1>
