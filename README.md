@@ -1,6 +1,6 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
 <video width="720" height="405" controls>
-  <source src="[https://example.com/path-to-your-video.mp4](https://i.imgur.com/sZlJ3Og.mp4)" type="video/mp4">
+  <source src="https://i.imgur.com/sZlJ3Og.mp4" type="video/mp4">
 </video>
 
 
