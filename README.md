@@ -1,6 +1,7 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
-<img src="https://i.imgur.com/sZlJ3Og.mp4" alt="GIF" width="300" height="200" />
-
+<video width="720" height="405" controls>
+  <source src="[https://example.com/path-to-your-video.mp4](https://i.imgur.com/sZlJ3Og.mp4)" type="video/mp4">
+</video>
 
 
 <h1 align="center">Hi 👋, I'm Berker</h1>
