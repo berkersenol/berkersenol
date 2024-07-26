@@ -1,5 +1,5 @@
 <img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
-<img src="https://imgur.com/a/ZfdUTbF" alt="Alt Text" width="300" height="200" />
+<img src="https://imgur.com/a/ZfdUTbF" alt="GIF" width="300" height="200" />
 
 
 
