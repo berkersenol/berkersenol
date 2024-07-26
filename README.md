@@ -1,8 +1,9 @@
-<img width="512" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
+<img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
 <h1 align="center">Hi 👋, I'm Berker</h1>
 
 I am doing my masters degree in University of Padua for Information Technologies specialized on Artifical Intelligence. Mostly, i build and write deep neural network models based on Tensorflow and Pytorch for Computer Vision and Natural Language Processing areas.  
 
+- Scraping and Analysing the Online discussion about Barbie Dataset on Twitter and X [Project](https://github.com/berkersenol/The-Affect-of-Barbie-the-Movie-on-the-online-discussion-about-feminism)
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/berker_senol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
