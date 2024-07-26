@@ -1,9 +1,4 @@
-<img width="1024" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
-<video width="720" height="405" controls>
-  <source src="https://i.imgur.com/sZlJ3Og.mp4" type="video/mp4">
-</video>
-
-
+<img width="512" alt="Banner" src="https://i.imgur.com/nmy7MH6.png">
 <h1 align="center">Hi 👋, I'm Berker</h1>
 
 I am doing my masters degree in University of Padua for Information Technologies specialized on Artifical Intelligence. Mostly, i build and write deep neural network models based on Tensorflow and Pytorch for Computer Vision and Natural Language Processing areas.  
