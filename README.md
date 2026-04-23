@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berker</h1>
 
 I have finished my masters degree in University of Padua for Information Technologies specializing on Artifical Intelligence. Mostly, i build and write deep neural network models based on Tensorflow and Pytorch for Computer Vision and Natural Language Processing areas. I also have experience in Data Science and Data Analytics and currently trying out AI Agents to understand how they operate and such.  
-
+- SQLOps Guardian analyzes SQL queries through a 4-layer pipeline and returns actionable optimization recommendations [sqlops-guardian](https://github.com/berkersenol/sqlops-guardian)
 - Scraping and Analysing the Online discussion about Barbie Dataset on Tiktok and X [The-Affect-of-Barbie-the-Movie-on-the-online-discussion-about-feminism](https://github.com/berkersenol/The-Affect-of-Barbie-the-Movie-on-the-online-discussion-about-feminism)
 - Smoking cessation with an AI-driven NLP tool for personalized guidance [QuitSmart-RAG](https://github.com/berkersenol/QuitSmart-RAG)
   
